@@ -1,19 +1,5 @@
 [
   {
-    "name": "thienan",
-    "gdsc": "Your School (Abbreviated)",
-    "website": "https://example.com",
-    "linkedin": "https://linkedin.com/xx/xxx",
-    "facebook": "https://facebook.com/xxx",
-    "twitter": "Your Twitter Username",
-    "github": "thienan020405",
-    "instagram": "Your Instagram Username",
-    "name": "Thai Son",
-    "gdsc": "HCMUS",
-    "facebook": "https://www.facebook.com/thaison.ho.627",
-    "github": "thaisonho"
-  },
-  {
     "name": "thangbuiq",
     "gdsc": "Test"
   },
@@ -26,5 +12,16 @@
     "name": "chinhdeprai",
     "gdsc": "speaker",
     "github": "github.com/lelouvincx2"
+  },
+  {
+    "name": "thienan",
+    "github": "thienan020405",
+    "gdsc": "HCMUS"
+  },
+  {
+    "name": "Thai Son",
+    "gdsc": "HCMUS",
+    "facebook": "https://www.facebook.com/thaison.ho.627",
+    "github": "thaisonho"
   }
 ]
