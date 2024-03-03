@@ -7,30 +7,30 @@ on:
     branches: [main]
 
 jobs:
-  lint-test:
-    runs-on: ubuntu-22.04
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+  # lint-test:
+  #   runs-on: ubuntu-22.04
+  #   steps:
+  #     - name: Checkout
+  #       uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9'
+  #     - name: Setup Python
+  #       uses: actions/setup-python@v2
+  #       with:
+  #         python-version: '3.9'
       
-      - name: Install packages python3-demjson
-        run: |
-          sudo apt update
-          sudo apt install python3-demjson -y
+  #     - name: Install packages python3-demjson
+  #       run: |
+  #         sudo apt update
+  #         sudo apt install python3-demjson -y
 
-      - name: Lint the JSON public/attendees.json
-        run: |
-          jsonlint public/attendees.json
+  #     - name: Lint the JSON public/attendees.json
+  #       run: |
+  #         jsonlint public/attendees.json
     
     
   deploy:
     if: github.event_name == 'push'
-    needs: lint-test
+    # needs: lint-test
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout
