@@ -1,12 +1,18 @@
 [
   {
-    "name": "thangbuiq",
-    "gdsc": "Test"
+    "name": "Tran Cam Huy",
+    "gdsc": "Your School (Abbreviated)",
+    "website": "https://example.com",
+    "linkedin": "https://linkedin.com/xx/xxx",
+    "facebook": "https://facebook.com/xxx",
+    "twitter": "Your Twitter Username",
+    "github": "HuyTran28",
+    "instagram": "Your Instagram Username"
   },
   {
-    "name": "lelouvincx",
+    "name": "HuyTran",
     "gdsc": "speaker",
-    "github": "https://github.com/lelouvincx"
+    "github": "https://github.com/HuyTran28"
   },
   {
     "name": "Duc Phuc Nguyen",
