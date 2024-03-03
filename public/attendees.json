@@ -31,10 +31,15 @@
      "linkedin": "https://linkedin.com/sabertoaster",
      "github": "sabertoaster"
   },
-  
   {
     "name": "Han Nguyen",
     "github": "hannguyen2880",
     "gdsc": "HCMUS"
   },
+  {
+    "name": "Minh Dang",
+    "gdsc": "HCMUS",
+    "facebook": "https://facebook.com/dang.minh1x/",
+    "github": "haveFunCoding444"
+  }
 ]
