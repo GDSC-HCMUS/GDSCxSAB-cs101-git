@@ -34,5 +34,30 @@
   {
     "name": "Thuy Tien",
     "gdsc": "UIT"
+  },
+    "name": "Han Nguyen",
+    "github": "hannguyen2880",
+    "gdsc": "HCMUS"
+  },
+  {
+    "name": "Minh Dang",
+    "gdsc": "HCMUS",
+    "facebook": "https://facebook.com/dang.minh1x/",
+    "github": "haveFunCoding444"
+  },
+  {
+    "name": "ChowNgu",
+    "gdsc": "HCMUS (Abbreviated)"
+  },
+  {
+    "name": "Chow",
+    "gdsc": "HCMUS (Abbreviated)",
+    "github": "Chowkey",
+    "instagram": "Cheee.lk"
+  },
+  {
+    "name" : "Hoang Bach",
+    "gdsc" : "HCMUS",
+    "github": "adamhermes66"
   }
 ]
