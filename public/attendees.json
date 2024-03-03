@@ -7,7 +7,11 @@
     "facebook": "https://facebook.com/xxx",
     "twitter": "Your Twitter Username",
     "github": "thienan020405",
-    "instagram": "Your Instagram Username"
+    "instagram": "Your Instagram Username",
+    "name": "Thai Son",
+    "gdsc": "HCMUS",
+    "facebook": "https://www.facebook.com/thaison.ho.627",
+    "github": "thaisonho"
   },
   {
     "name": "thangbuiq",
@@ -17,5 +21,10 @@
     "name": "lelouvincx",
     "gdsc": "speaker",
     "github": "https://github.com/lelouvincx"
+  },
+  {
+    "name": "chinhdeprai",
+    "gdsc": "speaker",
+    "github": "github.com/lelouvincx2"
   }
 ]
